@@ -1,0 +1,17 @@
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Araba Bilgilendirme formu\Araba Bilgilendirme formu\bin\Debug\net9.0-windows\Araba Bilgilendirme formu.exe
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Araba Bilgilendirme formu\Araba Bilgilendirme formu\bin\Debug\net9.0-windows\Araba Bilgilendirme formu.deps.json
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Araba Bilgilendirme formu\Araba Bilgilendirme formu\bin\Debug\net9.0-windows\Araba Bilgilendirme formu.runtimeconfig.json
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Araba Bilgilendirme formu\Araba Bilgilendirme formu\bin\Debug\net9.0-windows\Araba Bilgilendirme formu.dll
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Araba Bilgilendirme formu\Araba Bilgilendirme formu\bin\Debug\net9.0-windows\Araba Bilgilendirme formu.pdb
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Araba Bilgilendirme formu\Araba Bilgilendirme formu\obj\Debug\net9.0-windows\Araba_Bilgilendirme_formu.Form1.resources
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Araba Bilgilendirme formu\Araba Bilgilendirme formu\obj\Debug\net9.0-windows\Araba Bilgilendirme formu.csproj.GenerateResource.cache
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Araba Bilgilendirme formu\Araba Bilgilendirme formu\obj\Debug\net9.0-windows\Araba Bilgilendirme formu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Araba Bilgilendirme formu\Araba Bilgilendirme formu\obj\Debug\net9.0-windows\Araba Bilgilendirme formu.AssemblyInfoInputs.cache
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Araba Bilgilendirme formu\Araba Bilgilendirme formu\obj\Debug\net9.0-windows\Araba Bilgilendirme formu.AssemblyInfo.cs
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Araba Bilgilendirme formu\Araba Bilgilendirme formu\obj\Debug\net9.0-windows\Araba Bilgilendirme formu.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Araba Bilgilendirme formu\Araba Bilgilendirme formu\obj\Debug\net9.0-windows\Araba Bilgilendirme formu.sourcelink.json
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Araba Bilgilendirme formu\Araba Bilgilendirme formu\obj\Debug\net9.0-windows\Araba Bilgilendirme formu.dll
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Araba Bilgilendirme formu\Araba Bilgilendirme formu\obj\Debug\net9.0-windows\refint\Araba Bilgilendirme formu.dll
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Araba Bilgilendirme formu\Araba Bilgilendirme formu\obj\Debug\net9.0-windows\Araba Bilgilendirme formu.pdb
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Araba Bilgilendirme formu\Araba Bilgilendirme formu\obj\Debug\net9.0-windows\Araba Bilgilendirme formu.genruntimeconfig.cache
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Araba Bilgilendirme formu\Araba Bilgilendirme formu\obj\Debug\net9.0-windows\ref\Araba Bilgilendirme formu.dll
