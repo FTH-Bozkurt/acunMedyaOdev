@@ -1,0 +1,17 @@
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Öğrenci Bilgileri\Öğrenci Bilgileri\bin\Debug\net8.0-windows\Öğrenci Bilgileri.exe
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Öğrenci Bilgileri\Öğrenci Bilgileri\bin\Debug\net8.0-windows\Öğrenci Bilgileri.deps.json
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Öğrenci Bilgileri\Öğrenci Bilgileri\bin\Debug\net8.0-windows\Öğrenci Bilgileri.runtimeconfig.json
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Öğrenci Bilgileri\Öğrenci Bilgileri\bin\Debug\net8.0-windows\Öğrenci Bilgileri.dll
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Öğrenci Bilgileri\Öğrenci Bilgileri\bin\Debug\net8.0-windows\Öğrenci Bilgileri.pdb
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Öğrenci Bilgileri\Öğrenci Bilgileri\obj\Debug\net8.0-windows\Öğrenci_Bilgileri.Form1.resources
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Öğrenci Bilgileri\Öğrenci Bilgileri\obj\Debug\net8.0-windows\Öğrenci Bilgileri.csproj.GenerateResource.cache
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Öğrenci Bilgileri\Öğrenci Bilgileri\obj\Debug\net8.0-windows\Öğrenci Bilgileri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Öğrenci Bilgileri\Öğrenci Bilgileri\obj\Debug\net8.0-windows\Öğrenci Bilgileri.AssemblyInfoInputs.cache
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Öğrenci Bilgileri\Öğrenci Bilgileri\obj\Debug\net8.0-windows\Öğrenci Bilgileri.AssemblyInfo.cs
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Öğrenci Bilgileri\Öğrenci Bilgileri\obj\Debug\net8.0-windows\Öğrenci Bilgileri.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Öğrenci Bilgileri\Öğrenci Bilgileri\obj\Debug\net8.0-windows\Öğrenci Bilgileri.sourcelink.json
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Öğrenci Bilgileri\Öğrenci Bilgileri\obj\Debug\net8.0-windows\Öğrenci Bilgileri.dll
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Öğrenci Bilgileri\Öğrenci Bilgileri\obj\Debug\net8.0-windows\refint\Öğrenci Bilgileri.dll
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Öğrenci Bilgileri\Öğrenci Bilgileri\obj\Debug\net8.0-windows\Öğrenci Bilgileri.pdb
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Öğrenci Bilgileri\Öğrenci Bilgileri\obj\Debug\net8.0-windows\Öğrenci Bilgileri.genruntimeconfig.cache
+C:\Users\Fatih\OneDrive\Belgeler\GitHub\AcunMedyaOdevler\acunMedyaOdev\Öğrenci Bilgileri\Öğrenci Bilgileri\obj\Debug\net8.0-windows\ref\Öğrenci Bilgileri.dll
